@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     @IBAction func uiButton(sender: AnyObject) {
         println("button pressed")
+        println("more text")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
